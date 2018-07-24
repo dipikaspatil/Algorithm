@@ -5,3 +5,5 @@
 	* Insertion Sort
 	* Merge Sort
 	* Randomized Quick Sort
+
+* Strassen’s Matrix Multiplication
