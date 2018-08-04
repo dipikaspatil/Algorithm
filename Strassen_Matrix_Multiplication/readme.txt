@@ -4,7 +4,7 @@ Command to execute strassen matrix multiplication
 
 Description -
 Command will perform below actions by calling makefile which includes labels - compile, run and clean
-   a) Compile the C programm patil_prog1.c and will create executable program file as strassen_matrix_mltiplication
+   a) Compile the C programm strassen_matrix_mltiplication.c and will create executable program file as strassen_matrix_mltiplication
    b) Execute output file strassen_matrix_mltiplication and display the result
    c) Remove executable program strassen_matrix_mltiplication
 
