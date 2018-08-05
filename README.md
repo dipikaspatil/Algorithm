@@ -14,4 +14,8 @@
 
 * Longest Common Subsequence (using Dynamic Programming)
 
-* Floyd Algorithm Shortest Path Detection (for Random Undirected Graph)
+* Shortest Path Detection (using Floyd Algorithm for Random Undirected Graph)
+
+* Minimum Spanning Tree (using Prim's and Kruskal Algorithm)
+
+* 0/1 Kanpsack Problem (using Brute Force and Dynamic Programming)
